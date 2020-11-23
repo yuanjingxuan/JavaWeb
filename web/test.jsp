@@ -13,6 +13,7 @@
 <body>
 <script type="text/javascript">
     window.alert("Hello HTML");
+    window.alert("Hello HTML");
 </script>
 </body>
 </html>
